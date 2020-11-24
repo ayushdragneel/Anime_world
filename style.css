@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+}
+#header{
+    color: grey;
+    background-color: rgb(75, 233, 75);
+    padding: 25px;
+    text-align: center;
+    font-size: 300%;
+    align-content: center;
+}
+.navbar{
+    overflow: hidden;
+    background-color: rgb(49, 45, 45);
+    padding: 0px;
+    list-style-type: none;
+    margin: 1px;
+}
+li{
+    float: left;
+    font-size: 150%;
+    padding: 15px;
+    text-decoration: none;
+    color: lavender;
+}
+li:hover{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color:wheat;
+}
+input{
+    height: 50px;
+    width: 370px;
+    float: right;
+    font-size: 175%;
+}
+.mimg{
+    width: 100%;
+    height: 450px;
+    opacity: 0.8;
+}
+.list{
+    padding: 10px;
+    border:1px solid black;
+    overflow: hidden;
+}
+.imgs{
+    padding: 3px;
+    border: 2px solid black;
+    margin: 5px;
+}
+.listinside{
+    float: left;
+}
